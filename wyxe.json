@@ -2,15 +2,15 @@
 
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 
-"Version":"1.06",
+"Version":"1.07",
 
 //@เม่นสายเด้า
 
-"Url":"https://github.com/totowy/lovewy/blob/main/wyxe.zip?raw=true" ,
+"Url":"https://github.com/totowy/lovewy/raw/main/wyxe.zip" ,
 
 "Changelog":"
 
-💓พบไฟล์ใหม่ (18/08/2021)
+💓พบไฟล์ใหม่ (23/09/2021)
 💓  TRUE-DTAC
 💓DTAC pro shopee
 💓DTAC pro โชเชียว
